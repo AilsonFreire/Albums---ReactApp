@@ -4,7 +4,7 @@ AlbunsReactApp
 
 ## Getting Started
 
-You can clone this project to your PC here -[clone](https://github.com/AilsonFreire/Albums---ReactApp.git)
+You can clone this project to your PC and use to whatever you want (see License below)
 
 ## Author
 
@@ -12,4 +12,4 @@ You can clone this project to your PC here -[clone](https://github.com/AilsonFre
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/AilsonFreire/Albums---ReactApp/blob/master/README.md) file for details
