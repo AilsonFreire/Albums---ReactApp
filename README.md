@@ -4,7 +4,7 @@ AlbunsReactApp
 
 ## Getting Started
 
-You can clone this project to your PC and use to whatever you want (see License below)
+You can clone this project to your PC and use to whatever you want (see ##License below)
 
 ## Author
 
